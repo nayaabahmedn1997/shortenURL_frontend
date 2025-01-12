@@ -75,7 +75,7 @@ const Login = () => {
             Not registered? Register here
             </Link>
             <br />
-            <Link to="/forgot-password" className='link'>
+            <Link to="/forgotPassword" className='link'>
             Forgot password? click here
             </Link>
             <input type="submit" value="LOGIN" />
